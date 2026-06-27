@@ -412,7 +412,7 @@ table a, #comments a{background-color:inherit;}
 }
 .intro-saude{
     max-width:900px;
-    margin:30px auto 60px auto;
+    margin:20px auto 50px auto;
     text-align:center;
     color:#000;
     font-size:22px;
@@ -425,4 +425,10 @@ table a, #comments a{background-color:inherit;}
 .intro-saude p{
     margin:0;
     color:#000;
+}
+
+.wrapper.bgded{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
 }
