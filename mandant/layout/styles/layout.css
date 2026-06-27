@@ -42,9 +42,7 @@ File: Layout CSS
 }
 
 #billboard article{
-    display:block;
-    max-width:500px;
-    margin:0 auto;
+    display:none;
 }
 #billboard .heading, #billboard p{display:block; position:relative; margin:0 0 50px 0; padding:0;}
 #billboard .heading{font-size:68px; letter-spacing:2px;}
