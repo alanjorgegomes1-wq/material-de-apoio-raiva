@@ -30,9 +30,25 @@ File: Layout CSS
 
 /* Billboard
 --------------------------------------------------------------------------------------------------------------- */
-#billboard{padding:150px 0; text-align:center; text-transform:capitalize; line-height:normal;}
+#billboard{
+    padding:150px 0;
+    text-align:center;
+    text-transform:capitalize;
+    line-height:normal;
+}
 
-#billboard article{display:block; max-width:500px; margin:0 auto;}
+.wrapper.bgded{
+    background-position:center center !important;
+    background-repeat:no-repeat !important;
+    background-size:contain !important;
+    background-color:#ffffff;
+}
+
+#billboard article{
+    display:block;
+    max-width:500px;
+    margin:0 auto;
+}
 #billboard .heading, #billboard p{display:block; position:relative; margin:0 0 50px 0; padding:0;}
 #billboard .heading{font-size:68px; letter-spacing:2px;}
 #billboard p{z-index:1;}
