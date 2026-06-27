@@ -31,10 +31,7 @@ File: Layout CSS
 /* Billboard
 --------------------------------------------------------------------------------------------------------------- */
 #billboard{
-    padding:150px 0;
-    text-align:center;
-    text-transform:capitalize;
-    line-height:normal;
+    height:500px;
 }
 
 .wrapper.bgded{
