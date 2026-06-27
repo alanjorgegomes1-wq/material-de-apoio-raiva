@@ -416,15 +416,18 @@ table a, #comments a{background-color:inherit;}
 	.scrollable table{margin:0; padding:0; white-space:nowrap;}
 }
 .intro-saude{
+    width:70%;
     max-width:900px;
     margin:40px auto 60px auto;
-    padding:0 20px;
+    padding:20px 30px;
     text-align:center;
-    font-size:22px;
-    line-height:1.8;
-    color:#333;
+    background:#ffffff;
 }
 
 .intro-saude p{
     margin:0;
+    color:#000000;
+    font-size:22px;
+    line-height:1.8;
+    font-family:Verdana, Geneva, sans-serif;
 }
