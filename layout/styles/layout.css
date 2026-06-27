@@ -414,7 +414,7 @@ table a, #comments a{background-color:inherit;}
     max-width:900px;
     margin:20px auto 50px auto;
     text-align:center;
-    color:#000;
+    color:#fff;
     font-size:22px;
     line-height:1.8;
     font-family:Arial, Helvetica, sans-serif;
@@ -424,5 +424,5 @@ table a, #comments a{background-color:inherit;}
 
 .intro-saude p{
     margin:0;
-    color:#000;
+    color:#fff;
 }
