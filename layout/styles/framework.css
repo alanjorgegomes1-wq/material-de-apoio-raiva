@@ -20,12 +20,7 @@ html, body{margin:0; padding:0; font-size:14px; line-height:1.6em;}
 .hidden{display:none;}
 .nospace{margin:0; padding:0; list-style:none;}
 .borderedbox{border:1px solid;}
-.bgded{
-    background-position:center center;
-    background-repeat:no-repeat;
-    background-size:contain;
-    background-color:#ffffff;
-}
+.bgded{background-position:center center; background-repeat:no-repeat; background-size:contain; background-color:#ffffff;}
 .fixed{background-attachment:fixed;}
 .circle{border-radius:50%; background-clip:padding-box;}
 
